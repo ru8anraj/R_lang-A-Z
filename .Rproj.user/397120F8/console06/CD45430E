@@ -1,7 +1,25 @@
 [0m[0KWindows PowerShell[0K[?25l
 Copyright (C) 2016 Microsoft Corporation. All rights reserved.[0K
 [0K
-[0K[?25hPS D:\myLearnings\R_lang A-Z>[0K[31G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mg[0m[0K[31G[?25h[32G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mgi[0m[0K[?25h[0;33;93mt[0m[0K[35G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mgit[0m i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hInitialized empty Git repository in D:/myLearnings/R_lang A-Z/.git/[0K[?25l
+[0K[?25hPS D:\myLearnings\R_lang A-Z>[0K[31G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mg[0m[0K[?25h[0;33;93mi[0m[0K[0;33;93mt[0m[0K s[0Kt[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/397120F8/console06/CD45430E[0m[0K
+        [0;31mmodified:   .Rproj.user/397120F8/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/397120F8/sources/s-F55A3613/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.gitignore[0m[0K
+        [0;31mLaw of Large Numbers/[0m[0K
+        [0;31mMispriced Diamond Analysis/script.R[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25hPS D:\myLearnings\R_lang A-Z>[0K[31G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mg[0m[0K[?25h[0;33;93mi[0m[0K[0;33;93mt[0m[0K[35G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mgit[0m a[0K[?25hd[0Kd[0K[39G[?25lPS D:\myLearnings\R_lang A-Z> [0;33;93mgit[0m add .[0K[?25h[?25l
 [0K[?25h
