@@ -6,10 +6,10 @@ names(revenue) <- months
 names(expenses) <- months
 
 #Solution
-revenue
-expenses
 
+# monthly profit calculation
 monthly_profit <- revenue - expenses
 names(monthly_profit) <- months
-
 monthly_profit
+
+# adding tax to the revenue
